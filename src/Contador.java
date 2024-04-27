@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * @author Helinton Alves Coelho
+ * @version 1.0.0
+ * @since 27/04/2024
+ * */
+
 public class Contador {
     public static void main(String[] args) {
         Scanner terminal = new Scanner(System.in);
